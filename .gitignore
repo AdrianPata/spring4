@@ -25,3 +25,6 @@ hs_err_pid*
 #Downloadable sources
 #https://www.manning.com/books/spring-in-action-fourth-edition
 BookSourceCode
+
+.idea
+*.iml
